@@ -7,4 +7,9 @@ A collection of Data Structures and Algorithms solutions implemented in Java, co
 |  |
 | ------- |
 | [1470-shuffle-the-array](https://github.com/nikhilmogare2002/DSA/tree/master/1470-shuffle-the-array) |
+| [1920-build-array-from-permutation](https://github.com/nikhilmogare2002/DSA/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/nikhilmogare2002/DSA/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
