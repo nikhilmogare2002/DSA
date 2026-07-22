@@ -6,6 +6,7 @@ A collection of Data Structures and Algorithms solutions implemented in Java, co
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilmogare2002/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhilmogare2002/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilmogare2002/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/nikhilmogare2002/DSA/tree/master/1470-shuffle-the-array) |
@@ -26,5 +27,6 @@ A collection of Data Structures and Algorithms solutions implemented in Java, co
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilmogare2002/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhilmogare2002/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
