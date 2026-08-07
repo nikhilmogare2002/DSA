@@ -17,10 +17,12 @@ A collection of Data Structures and Algorithms solutions implemented in Java, co
 | [1470-shuffle-the-array](https://github.com/nikhilmogare2002/DSA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/nikhilmogare2002/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/nikhilmogare2002/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/nikhilmogare2002/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/nikhilmogare2002/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/nikhilmogare2002/DSA/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
